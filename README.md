@@ -1,2 +1,5 @@
-# Ukuli-Tietomeri-DataStore
-This is for longer term storage as well as analysis of the data. Also should probably take care of storing all data coming from MQTT.
+# Ukuli-Tietomeri-Data-Analysis
+This module has three tasks:
+- Store data in a NoSQL database for as long as is desired - a week, a month or a year?
+- Visualize the data as required.
+- Analyze the data using Python data science tools if required.
